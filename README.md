@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/satyamkumarjha2002/readmeProfile/blob/main/img/Satyam%20Kumar%20Jha%20(1).jpg)](https://rishavchanda.io)
+[![MasterHead](https://th.bing.com/th/id/R.58d3e6bdf9b31c94ba149954002c30cc?rik=4gbMGVMXijlOiA&riu=http%3a%2f%2fwww.horizont.com.hr%2fposao%2fbackend-developer.gif&ehk=z%2fsae0Sh0cVPibIMgcBr%2fs5Lo%2bD945rNQMZb4VFnW0s%3d&risl=&pid=ImgRaw&r=0)](https://rishavchanda.io)
 <h1 align="center">Hii <img style=" height: 30px;" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" alt=""> I am Satyam Kumar Jha</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamkumarjha2002&label=Profile%20views&color=0e75b6&style=flat" alt="satyamkumarjha2002" /> </p>
