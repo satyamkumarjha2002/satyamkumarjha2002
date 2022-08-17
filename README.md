@@ -1,20 +1,22 @@
-[![MasterHead](https://th.bing.com/th/id/R.58d3e6bdf9b31c94ba149954002c30cc?rik=4gbMGVMXijlOiA&riu=http%3a%2f%2fwww.horizont.com.hr%2fposao%2fbackend-developer.gif&ehk=z%2fsae0Sh0cVPibIMgcBr%2fs5Lo%2bD945rNQMZb4VFnW0s%3d&risl=&pid=ImgRaw&r=0)](https://rishavchanda.io)
+
 <h1 align="center">Hii <img style=" height: 30px;" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" alt=""> I am Satyam Kumar Jha</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Backend developer</h3>
+<p align="center">Ambitious and adventurous Aspiring Backend Developer with good knowledge in Java, Hibernate, Spring, Spring Boot, MySql, RDBMS, and Rest API. Passionate about coding and learning new technologies, Looking forward to working in a reputed company. I love, Java but I can pick up another framework or language according to my needs and get my work done!</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamkumarjha2002&label=Profile%20views&color=0e75b6&style=flat" alt="satyamkumarjha2002" /> </p>
 
 - 🌱 I’m currently learning **Spring Boot**
 - 📫 How to reach me **sjha02859@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_cm7oLJodnm2bb198PhAvCgP1Bx_xgYR/view)
+- Portfolio [Satyam](https://satyamkumarjha2002.github.io/portfolio/)
 
 - ⚡ Fun fact **I think I am funny!**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/satyam-kumar-jha-29b354235/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linked In" height="30"/></a>
-<a href="https://twitter.com/SatyamK25680503" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="Twitter" height="30" /></a>
-<a href="https://www.hackerrank.com/sjha02859?hr_r=1" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="Hacker Rank" height="30" /></a>
+<p >
+<a href="https://www.linkedin.com/in/satyam-kumar-jha-29b354235/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linked In" height="50"/></a>
+<a href="https://twitter.com/SatyamK25680503" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="Twitter" height="50" /></a>
+<a href="https://www.hackerrank.com/sjha02859?hr_r=1" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="Hacker Rank" height="50" /></a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <img
