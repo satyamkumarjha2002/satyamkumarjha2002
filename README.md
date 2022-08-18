@@ -1,7 +1,7 @@
 
 <h1 align="center">Hii <img style=" height: 30px;" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" alt=""> I am Satyam Kumar Jha</h1>
 <h3 align="center">A passionate Backend developer</h3>
-<p align="center">Ambitious and adventurous Aspiring Backend Developer with good knowledge in Java, Hibernate, Spring, Spring Boot, MySql, RDBMS, and Rest API. Passionate about coding and learning new technologies, Looking forward to working in a reputed company. I love, Java but I can pick up another framework or language according to my needs and get my work done!</p>
+<h3 align="center">Ambitious and adventurous Aspiring Backend Developer with good knowledge in Java, Hibernate, Spring, Spring Boot, MySql, RDBMS, and Rest API. Passionate about coding and learning new technologies, Looking forward to working in a reputed company. I love, Java but I can pick up another framework or language according to my needs and get my work done!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamkumarjha2002&label=Profile%20views&color=0e75b6&style=flat" alt="satyamkumarjha2002" /> </p>
 
 - 🌱 I’m currently learning **Spring Boot**
