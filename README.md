@@ -2,7 +2,7 @@
 <h1 align="center">Hii <img style=" height: 30px;" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" alt=""> I am Satyam Kumar Jha</h1>
 <h3 align="center">A passionate Backend developer</h3>
 <h3 align="center">Ambitious and adventurous Aspiring Backend Developer with good knowledge in Java, Hibernate, Spring, Spring Boot, MySql, RDBMS, and Rest API. Passionate about coding and learning new technologies, Looking forward to working in a reputed company. I love, Java but I can pick up another framework or language according to my needs and get my work done!</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamkumarjha2002&label=Profile%20views&color=0e75b6&style=flat" alt="satyamkumarjha2002" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=satyamkumarjha2002&label=Profile%20views&color=0e75b6&style=flat" alt="satyamkumarjha2002" /> </p>
 
 - 🌱 I’m currently learning **Spring Boot**
 - 📫 How to reach me **sjha02859@gmail.com**
@@ -18,7 +18,7 @@
 <a href="https://twitter.com/SatyamK25680503" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="Twitter" height="50" /></a>
 <a href="https://www.hackerrank.com/sjha02859?hr_r=1" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="Hacker Rank" height="50" /></a>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
     <img
       src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png"
       alt="Java"
@@ -63,8 +63,8 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamkumarjha2002&show_icons=true&locale=en&layout=compact" alt="Satyam Kumar Jha" /></p>
+<p align = "center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamkumarjha2002&show_icons=true&locale=en&layout=compact" alt="Satyam Kumar Jha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyamkumarjha2002&show_icons=true&locale=en" alt="Satyam Kuamr Jha" /></p>
+<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyamkumarjha2002&show_icons=true&locale=en" alt="Satyam Kuamr Jha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamkumarjha2002&" alt="Satyam Kumar Jha" /></p>
+<p align = "center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamkumarjha2002&" alt="Satyam Kumar Jha" /></p>
