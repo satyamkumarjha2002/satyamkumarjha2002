@@ -63,7 +63,7 @@
 </p>
 
 
-<p align = "center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamkumarjha2002&show_icons=true&locale=en&layout=compact" alt="Satyam Kumar Jha" /></p>
+<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamkumarjha2002&show_icons=true&locale=en&layout=compact" alt="Satyam Kumar Jha" /></p>
 
 <p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyamkumarjha2002&show_icons=true&locale=en" alt="Satyam Kuamr Jha" /></p>
 
