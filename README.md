@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Spring Boot**
 - 📫 How to reach me **sjha02859@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_cm7oLJodnm2bb198PhAvCgP1Bx_xgYR/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BlGjgkgejq7f_-2d5bHGxTMZwj7yf12M/view)
 - Portfolio [Satyam](https://satyamkumarjha2002.github.io/portfolio/)
 
 - ⚡ Fun fact **I think I am funny!**
