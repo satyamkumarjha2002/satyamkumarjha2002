@@ -16,7 +16,7 @@
 <p >
 <a href="https://www.linkedin.com/in/satyam-kumar-jha-29b354235/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linked In" height="50"/></a>
 <a href="https://twitter.com/SatyamK25680503" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="Twitter" height="50" /></a>
-<a href="https://www.hackerrank.com/sjha02859?hr_r=1" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="Hacker Rank" height="50" /></a>
+<a href="https://www.hackerrank.com/fw17_0780?hr_r=1" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="Hacker Rank" height="50" /></a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
     <img
