@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img style="height: 30px;" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" alt=""> I am Satyam Kumar Jha</h1>
-<h3 align="center">A Passionate Backend Developer</h3>
+<h3 align="center">A Software Engineer</h3>
 <h3 align="center">
 Driven and detail-oriented Backend Developer with hands-on experience in building scalable systems, solving complex problems, and delivering reliable solutions. I’m passionate about creating efficient, well-structured backend architectures and continuously improving performance, reliability, and user experience. Always eager to learn, grow, and contribute to impactful projects that make a difference.
 </h3>
